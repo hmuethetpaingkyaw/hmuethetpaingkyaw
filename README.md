@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hmue</h1>
-<h3 align="center">A passionate full stack developer from Myanmar</h3>
-
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left">
 </p>
