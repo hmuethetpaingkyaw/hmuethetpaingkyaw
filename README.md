@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hmue Thet Paing Kyaw. I'm a full stack developer. I develop web-based and mobile applications. Currently, I'm working for an organization and a Japan software company. I also develop different projects as a freelancer.</p>
+<p align="left">My name is Hmue Thet Paing Kyaw. I'm a full stack developer.
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- http://eflogisticsgroup.com/ <br>- https://malaysianelectiondataviz.com/<br>- https://www.lawupmyanmar.com/<br>- https://mata-vot.org/<br>- https://play.google.com/store/apps/details?id=com.rcs.goal92</p>
+<p align="left">- http://eflogisticsgroup.com/ <br>- https://malaysianelectiondataviz.com/<br>- https://www.lawupmyanmar.com/<br>- https://mata-vot.org/</p>
 
 ###
 
